@@ -1,4 +1,4 @@
-'''#Creating a list
+#Creating a list
 my_list=[1,2,3,4,5,6]
 print(my_list)
 #adding element
@@ -24,7 +24,7 @@ print(my_dict)
 #modifying
 my_dict['car']='tata'
 print(my_dict)
-print()'''
+print()
 
 #create set
 my_set={1,2,3,4,5}
